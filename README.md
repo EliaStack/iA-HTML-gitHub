@@ -1,4 +1,4 @@
-Nom : IA HTML
+Nom : IA HTML</b>
 Objectif : Utilisation de git&Github avec les premiers pas dans le développement web/LearningCampus
 Technologies utilisées : HTML, CSS
 Prompt IA utilisé : Gemini
